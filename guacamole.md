@@ -1,6 +1,6 @@
 #Ingredients
 - avocado
 - lime
-- pepper
+- peppers
 - salt
 #Instructions
